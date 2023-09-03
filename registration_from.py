@@ -1,13 +1,13 @@
 from tkinter import *
 
 root=Tk()
-root.geometry("600x500")
-root.maxsize(600,500)
+root.geometry("500x500")
+root.maxsize(500,500)
 root.config(background="skyblue")
 root.title("GUI APP")
 
 l0=Label(root,text="---Registeration Form---",font=('arial',20),width=20)
-l0.place(x=140,y=45)
+l0.place(x=100,y=45)
 
 l1=Label(root,text="Enter your First Name : ",width=25)
 l1.place(x=30,y=120)
