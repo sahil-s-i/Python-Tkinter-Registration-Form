@@ -1,13 +1,13 @@
 from tkinter import *
 
 root=Tk()
-root.geometry("500x500")
-root.maxsize(500,500)
+root.geometry("450x500")
+root.maxsize(450,500)
 root.config(background="skyblue")
 root.title("GUI APP")
 
-l0=Label(root,text="---Registeration Form---",font=('arial',20),width=20)
-l0.place(x=100,y=45)
+l0=Label(root,text="--- Registeration Form ---",font=('arial',20),width=20,bg="skyblue")
+l0.place(x=60,y=45)
 
 l1=Label(root,text="Enter your First Name : ",width=25)
 l1.place(x=30,y=120)
@@ -63,6 +63,6 @@ e6=Entry(root,width=30,show="x")
 e6.place(x=220,y=400)
 
 b1=Button(root,text="Submit",bg="black",fg="white",font=('arial',10))
-b1.place(x=240,y=440)
+b1.place(x=200,y=450)
 
 root.mainloop()
