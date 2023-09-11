@@ -3,7 +3,8 @@
 Welcome to the Python-Tkinter-Registration-Form repository! This project showcases a registration form built using the Tkinter module in Python
 
 
-### Output : 
+### demo : 
 
 
-<img width="373" alt="Screenshot 2023-09-02 192127" src="https://github.com/sahil-s-i/Python-Tkinter-Registration-Form/assets/137802489/d3cd2fcd-3d96-4d9f-a500-7335a4c5b255">
+
+<img width="332" alt="Screenshot 2023-09-09 190614" src="https://github.com/sahil-s-i/Python-Tkinter-Registration-Form/assets/137802489/d37c182d-2d66-4c2d-b8ef-294c438ddbbc">
