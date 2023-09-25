@@ -38,7 +38,7 @@ Radiobutton(root,text="Female",padx=10,variable=vars,value=2,bg="skyblue").place
 l6=Label(root,text="Select Country : ",width=25)
 l6.place(x=30,y=320)
 def show():
-    label.config( text = clicked.get()  ,width=10)
+    Label.config( text = clicked.get()  ,width=10)
 options = [
     "India",
     "USA",
